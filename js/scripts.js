@@ -144,7 +144,7 @@ function ajaxFormSubmit(form){
 	// Make a request
 	var request = new XMLHttpRequest();
 	request.addEventListener("loadend", function(){
-		if(request.status!=200 && request.status!=302){
+		if(request.status!=200 && request.status!=0){
 			ajaxFormSubmitResult("Error: HTTP status code is "+request.status,form);
 		}else{
 			ajaxFormSubmitResult(request.responseText,form);
