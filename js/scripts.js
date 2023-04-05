@@ -154,6 +154,7 @@ function ajaxFormSubmit(form){
 			var el = form.querySelector(".js-ajax-form-result[data-result='success'] .js-ajax-form-alert-text");
 			text = el.getAttribute("data-default-text");
 			ajaxFormShowResult(true, text, alerts);
+			form.reset()
         } else {
           response.json().then(data => {
             if (Object.hasOwn(data, 'errors')) {
