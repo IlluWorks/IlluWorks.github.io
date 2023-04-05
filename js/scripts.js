@@ -140,8 +140,9 @@ function ajaxFormSubmit(form){
 			return false;
 		}
 	});
-	
+
 	// Make a request
+	var alerts = form.querySelectorAll(".js-ajax-form-result");
 	fetch(form.action, {
         method: form.method,
         body: formData,
