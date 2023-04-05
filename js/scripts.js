@@ -167,9 +167,6 @@ function ajaxFormSubmit(form){
           })
         }
       }).catch(error => {
-		console.error(response);
-		text = response;
-		ajaxFormShowResult(false, text, alerts);
         return false;
       });
     }
