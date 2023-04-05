@@ -142,20 +142,37 @@ function ajaxFormSubmit(form){
 	});
 	
 	// Make a request
-	var request = new XMLHttpRequest();
-	request.addEventListener("loadend", function(){
-		if(request.status!=200 && request.status!=0 && request.status!=302){
-			ajaxFormSubmitResult("Error: HTTP status code is "+request.status,form);
-		}else{
-			ajaxFormSubmitResult(request.responseText,form);
-		}
-	});
-	request.addEventListener("timeout", function(){
-		ajaxFormSubmitResult("Request timed out, data was not sent.",form);
-	});
-	request.open(form.method, form.action);
-    request.send(formData);
-}
+	fetch(form.action, {
+        method: form.method,
+        body: formData,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+			var el = form.querySelector(".js-ajax-form-result[data-result='success'] .js-ajax-form-alert-text");
+			text = el.getAttribute("data-default-text");
+			ajaxFormShowResult(true, text, alerts);
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+				text = data["errors"].map(error => error["message"]).join(", ");
+				console.error(response);
+				ajaxFormShowResult(false, text, alerts);
+            } else {
+				text = "Unknown error. Please, check if your hosting supports PHP.";
+				console.error(text);
+				ajaxFormShowResult(false, text, alerts);
+            }
+          })
+        }
+      }).catch(error => {
+		console.error(response);
+		text = response;
+		ajaxFormShowResult(false, text, alerts);
+        return false;
+      });
+    }
 
 // Handle response of the AJAX form submit
 function ajaxFormSubmitResult(response,form){
