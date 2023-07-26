@@ -7,144 +7,217 @@
 
 <url>
   <loc>https://www.illu.works/</loc>
-  <lastmod>2023-03-07T04:33:55+00:00</lastmod>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.illu.works/use-cases</loc>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.illu.works/pricing</loc>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.illu.works/why-we-built-it</loc>
-  <lastmod>2023-03-07T04:33:55+00:00</lastmod>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://api.illu.works/</loc>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.illu.works/privacy-policy</loc>
-  <lastmod>2023-03-07T04:33:55+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
+  <priority>0.40</priority>
 </url>
 <url>
   <loc>https://www.illu.works/terms-of-service</loc>
-  <lastmod>2023-03-07T04:33:55+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-24T04:33:55+00:00</lastmod>
+  <priority>0.40</priority>
 </url>
 <url>
   <loc>https://help.illu.works/</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-<url>
-  <loc>https://help.illu.works/overview/quick-start-guide</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <url>
+  <loc>https://help.illu.works/quick-start-guide</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://help.illu.works/overview/feature-roadmap</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <loc>https://help.illu.works/workflow-library</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://help.illu.works/fundamentals/illu-basics</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/fundamentals/accessing-illu</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://help.illu.works/fundamentals/technical-requirements</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://help.illu.works/product-guides/managing-accounts</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <loc>https://help.illu.works/fundamentals/feature-roadmap</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://help.illu.works/product-guides/using-jobs</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <loc>https://help.illu.works/accounts-and-members/create-an-organization-to-start-a-free-trial</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://help.illu.works/product-guides/using-workflows</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <loc>https://help.illu.works/accounts-and-members/inviting-team-members</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://help.illu.works/product-guides/using-sites</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <loc>https://help.illu.works/accounts-and-members/accepting-an-invitation</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://help.illu.works/product-guides/example-of-illu-in-action</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <loc>https://help.illu.works/accounts-and-members/change-password</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/accounts-and-members/adding-multiple-admins</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/accounts-and-members/transfer-an-account</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/accounts-and-members/delete-an-account</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/jobs-overview</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/create-and-delegate-job</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/edit-job-requirements</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/update-job-progress</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/create-edit-job-sites</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/view-jobs-on-map</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/generate-job-report</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/jobs/bulk-export-job-data</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/workflows/workflow-overview</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/workflows/create-a-workflow</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/workflows/share-workflows</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/workflows/add-workflows-to-a-job</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/workflows/workflow-tips-and-tricks</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/illu-api/api-overview</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/illu-api/trigger-new-job-on-alert</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/illu-api/create-new-site-on-project-start</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/illu-api/update-job-status-on-approval</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/tips/how-to-set-up-recurring-proccesses</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/tips/example-of-illu-in-action</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://help.illu.works/support/get-help</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.illu.works/support/managing-billing-and-payment</loc>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://help.illu.works/support/frequently-asked-questions</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://help.illu.works/support/known-issues</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
+  <lastmod>2023-07-26T01:03:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://help.illu.works/product-guides/using-workflows/workflow-tips-and-tricks</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/using-workflows/how-to-add-a-workflow-to-a-job</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/using-workflows/how-to-make-edit-workflows</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/managing-accounts/creating-an-organization</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/managing-accounts/inviting-team-members</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/managing-accounts/accepting-an-invitation</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/managing-accounts/change-password</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/using-jobs/how-to-make-a-job</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/using-jobs/how-to-use-jobs</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://help.illu.works/product-guides/using-jobs/how-to-edit-a-job</loc>
-  <lastmod>2023-03-08T20:55:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
