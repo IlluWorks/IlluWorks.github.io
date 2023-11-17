@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.org.illu",
+      "sha256_cert_fingerprints":
+      ["EC:DD:4B:45:30:63:7C:08:20:AF:F2:7A:8B:C4:9B:34:E4:0B:55:6E:07:85:B2:72:2E:A2:D6:0E:44:FB:99:D8"]
+    }
+  }]
