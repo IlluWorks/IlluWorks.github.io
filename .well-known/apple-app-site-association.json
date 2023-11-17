@@ -1,0 +1,16 @@
+{
+    "applinks":{
+       "apps":[
+          
+       ],
+       "details":[
+          {
+             "appIDs":[
+                "D5Q3T8YK53.org.illu.app"
+             ],
+             "appID":"D5Q3T8YK53.org.illu.app",
+             "paths":["*"]
+          }
+       ]
+    }
+ }
